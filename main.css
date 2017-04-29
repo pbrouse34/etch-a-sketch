@@ -1,0 +1,37 @@
+body{
+  background-color:#e6e6e6;
+}
+h1{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 48px;
+  color: #fff;
+}
+
+#casing {
+  background-color: #ca0107;
+  margin-top: 100px;
+  height: 500px;
+  border-radius: 25px;
+  box-shadow: 0 0 5px #000000,
+				inset 0 0 5px #000000;
+}
+
+#screen{
+  width: 560px;
+  height: 360px;
+  margin: 0 auto;
+  background-color: #aaa9a5;
+  box-shadow: 0 0 5px #000000,
+				inset 0 0 5px #000000;
+
+}
+.pxl{
+  height: 5px;
+  width: 5px;
+  display: inline-block;
+
+  padding: 0px;
+  margin:0px;
+
+  float: left;
+}
